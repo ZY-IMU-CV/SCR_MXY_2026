@@ -1,0 +1,5 @@
+dataset: "Places_LT"
+root: "./data"
+
+# AdaptFormer bottleneck dimension used in SCR
+adapter_dim: 256

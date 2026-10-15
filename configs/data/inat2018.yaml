@@ -1,0 +1,5 @@
+dataset: "iNaturalist2018"
+root: "./data"
+
+# AdaptFormer bottleneck dimension used in SCR
+adapter_dim: 512
